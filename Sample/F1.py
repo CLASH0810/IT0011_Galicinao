@@ -18,4 +18,4 @@ print("Address:", address)
 print("Course:", course)
 print("Year level:", yearlevel)
 
-![Image](https://github.com/user-attachments/assets/a89970bc-87f7-4614-be78-5625ae666a61)
+
