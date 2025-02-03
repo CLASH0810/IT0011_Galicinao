@@ -1,0 +1,25 @@
+Last Name: Galicinao
+First Name: Mark Wilson
+Age: 20
+Contact Number: 09270115521Last Name: Galicinao
+First Name: Mark Wilson
+Age: 20
+Contact Number: 09270115521Last Name: WEWEW
+First Name: Wilson
+Age: 23
+Contact Number: 4546521231Last Name: Galicinao
+First Name: Mark Wilson
+Age: 20
+Contact Number: 09270115521Last Name: & "C:/Program Files/Python312/python.exe" c:/Users/202312459/Documents/GitHub/IT0011_Galicinao/TFA1/StringManipulator3.py
+First Name: & "C:/Program Files/Python312/python.exe" c:/Users/202312459/Documents/GitHub/IT0011_Galicinao/TFA1/StringManipulator3.py
+Age: 23
+Contact Number: 091919191Last Name: Galicinao
+First Name: Mark Wilson
+Age: 20
+Contact Number: 09270115521Last Name: Galicinao
+First Name: Mark Wilson
+Age: 20
+Contact Number: 4564654654Last Name: Galicinao
+First Name: Mark Wilson
+Age: 20
+Contact Number: 232323232
