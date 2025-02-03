@@ -1,23 +1,21 @@
 name = input("Enter First name: ")
-print("First Name:", name)
-
 lastname = input("Enter Last name: ")
-print("Last Name:", lastname)
-
 middlename = input("Enter Middle name: ")
-print("Middle Name:", middlename)
-
 birthday = input("Enter Birthday: ")
-print("Birthday:", birthday)
-
 gender = input("Enter Gender: ")
-print("Gender:", gender)
-
 address = input("Enter Address: ")
-print("Address:", address)
-
 course = input("Enter Course: ")
-print("Course:", course)
-
 yearlevel = input("Enter Year Level: ")
+
+
+
+print("First Name:", name)
+print("Last Name:", lastname)
+print("Middle Name:", middlename)
+print("Birthday:", birthday)
+print("Gender:", gender)
+print("Address:", address)
+print("Course:", course)
 print("Year level:", yearlevel)
+
+
