@@ -1,0 +1,2 @@
+Line 1: 10, 20, 30, 17 (sum 77) - Palindrome
+Line 2: 1, 2, 3, 4, 5 (sum 15) - Not a palindrome
